@@ -17,11 +17,7 @@
     - 1차) 장르별 분류 Group by 트리 구조
     - 2차) 트위터 추천 알고리즘 스터디 (사용자 맞춤형 추천)
     - ppt 사진
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fe8f619-2a56-401d-bdd9-212cd9f17012/Untitled.png)
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/264fff45-dc12-4323-81ae-f848f256cc2d/Untitled.png)
-        
+                
 - 알라딘 데이터 수집 : 30개
 - 컬럼 : 제목, 저자, 목차, 책소개, 구매 링크, 가격, 장르, 책속에서(책 페이지 문구), 편집장의 선택
 - 장르(주제 분류) : 무조건 첫번째 줄의 세번째까지만 수집
@@ -30,4 +26,3 @@
     - 승훈 : 사회과학
     - 서영 : 소설/시/희곡
  
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e36dcdb-563a-4efc-b6dc-18e50bd5f06e/Untitled.png)

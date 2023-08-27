@@ -17,7 +17,12 @@
     - 1차) 장르별 분류 Group by 트리 구조
     - 2차) 트위터 추천 알고리즘 스터디 (사용자 맞춤형 추천)
     - ppt 사진
-                
+    - 추천 페이지 UI
+    - ![image](https://github.com/Chatgpt-Project-BookContextAI/Data-Crawling/assets/109809978/d3896a87-1a7a-4d48-a6d5-a41c155286c9) 
+
+
+
+
 - 알라딘 데이터 수집 : 30개
 - 컬럼 : 제목, 저자, 목차, 책소개, 구매 링크, 가격, 장르, 책속에서(책 페이지 문구), 편집장의 선택
 - 장르(주제 분류) : 무조건 첫번째 줄의 세번째까지만 수집
@@ -25,4 +30,6 @@
     - 유빈 : 경제경영
     - 승훈 : 사회과학
     - 서영 : 소설/시/희곡
+    - 국내도서 카테고리
+    - ![image](https://github.com/Chatgpt-Project-BookContextAI/Data-Crawling/assets/109809978/9c87843d-6a2c-4e66-bb95-2e62b909bb3a)
  
